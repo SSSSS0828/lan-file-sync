@@ -475,7 +475,7 @@ lanswift-transfer/
 
 ## License
 
-MIT License © 2024
+MIT License © 2026
 
 ---
 
