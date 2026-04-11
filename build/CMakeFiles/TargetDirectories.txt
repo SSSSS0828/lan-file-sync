@@ -1,9 +1,0 @@
-/home/xun/lan-file-sync/build/CMakeFiles/lanswift_transfer.dir
-/home/xun/lan-file-sync/build/CMakeFiles/edit_cache.dir
-/home/xun/lan-file-sync/build/CMakeFiles/rebuild_cache.dir
-/home/xun/lan-file-sync/build/CMakeFiles/list_install_components.dir
-/home/xun/lan-file-sync/build/CMakeFiles/install.dir
-/home/xun/lan-file-sync/build/CMakeFiles/install/local.dir
-/home/xun/lan-file-sync/build/CMakeFiles/install/strip.dir
-/home/xun/lan-file-sync/build/CMakeFiles/lanswift_transfer_autogen_timestamp_deps.dir
-/home/xun/lan-file-sync/build/CMakeFiles/lanswift_transfer_autogen.dir
