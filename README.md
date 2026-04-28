@@ -463,16 +463,6 @@ lanswift-transfer/
 
 ---
 
-## 已知限制与 TODO
-
-- [ ] **传输加密**：当前明文传输，计划集成 TLS（OpenSSL `SSL_write`）
-- [ ] **目录同步**：目前仅支持单文件，待实现目录递归同步
-- [ ] **多文件并发**：当前串行传输队列，待支持多文件并发
-- [ ] **Windows 移植**：mmap 替换为 `MapViewOfFile`，信号量替换为 Win32 API
-- [ ] **传输压缩**：可选 zstd 压缩，对可压缩文件提升有效吞吐
-
----
-
 ## License
 
 MIT License © 2026
