@@ -320,7 +320,7 @@ sudo apt install -y \
 ### 编译构建
 
 ```bash
-git clone https://github.com/yourname/lanswift-transfer.git
+git clone https://github.com/SSSSS0828/lan-file-sync.git
 cd lanswift-transfer
 
 # 方式 A：一键脚本（含依赖检查）
